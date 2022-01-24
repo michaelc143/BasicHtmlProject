@@ -1,0 +1,41 @@
+p {
+    color:red;
+    border-style:groove;
+}
+h1 {
+    color: royalblue;
+    background-color: salmon;
+    border-color: black;
+    border-style: groove;
+}
+#secondHeader1 {
+    color: salmon;
+    background-color: royalblue;
+}
+.justMade {
+    color: green;
+    border-style: dashed;
+}
+h2 {
+    color: orangered;
+    background-color: paleturquoise;
+    border-style: dotted;
+}
+#pups {
+    height: 300px;
+    width: fit-content;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.unorderedLists {
+    list-style-type: square;
+    color: red;
+}
+#changeMe {
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+    background: red;
+    margin: 20px auto;
+}
